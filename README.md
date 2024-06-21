@@ -1,4 +1,7 @@
 ## Projects
 
 Mobile designs for an e-commerce website that sells art
-[MLink to Mobile Designs](https://app.moqups.com/yz1L8LOJET/view/page/a0f98e43b)
+
+[Link to Mobile Designs](https://app.moqups.com/yz1L8LOJET/view/page/a0f98e43b)
+
+
